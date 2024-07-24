@@ -1,3 +1,3 @@
 export const App = () => {
-  return <div>voluptatibus suscipit?</div>;
+  return <h2>voluptatibus suscipit?</h2>;
 };
