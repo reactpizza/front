@@ -1,3 +1,3 @@
 export const App = () => {
-  return <h2>SCID dsdfsafasfasdsfadsfads tew?</h2>;
+  return <h2>SCID TEST UPDATES tew?</h2>;
 };
