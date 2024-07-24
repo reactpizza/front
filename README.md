@@ -9,8 +9,6 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
 If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single
 
 ## Learn More
