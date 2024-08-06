@@ -1,3 +1,3 @@
 export const App = () => {
-  return <h2> ignore</h2>;
+  return <h1> ignore</h1>;
 };
