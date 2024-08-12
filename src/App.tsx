@@ -1,3 +1,3 @@
 export const App = () => {
-  return <h1> UPDATE </h1>;
+  return <h1> UPDATE 2 </h1>;
 };
