@@ -1,3 +1,3 @@
 export const App = () => {
-  return <h2>SCID </h2>;
+  return <h2>Abrakadabra </h2>;
 };
